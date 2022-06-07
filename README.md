@@ -1,7 +1,7 @@
 # 1 Youtube
 youtubeの「Rでベイズ統計モデリング」シリーズで解説しているコードを載せています！
 
-<a href="https://www.youtube.com/watch?v=4judWuL7i1g&list=PL7BUpEjz_maTsbjev7Dpz02-WUomMrGIX">　<img src="image/r.JPG">　</a>
+<a href="https://www.youtube.com/watch?v=4judWuL7i1g&list=PL7BUpEjz_maTsbjev7Dpz02-WUomMrGIX">　<img src="image/rmodel.JPG">　</a>
 
 <br>
 
